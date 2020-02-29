@@ -1,9 +1,10 @@
 # Mechatronics-Race
 
+## Embedded Software Team:
 /*
  * Program: ESP32-Car-BT.ino
  * 20/02/20 Tareq Mahwdawi / Juergen Walter
- *Modified By: Ritu Ahmed and Md. Hasibur Rahman(Team of Embeded System) 
+ *Modified By: Ritu Ahmed and Md. Hasibur Rahman(Team of Embedded System) 
  *Advised by Quamrul Hasan
  * Hardware: eMalRob ESP32 + H-Bridge 8833 + OLED + 2 DC Motors + 1 Servo
  * Software: Android - Arduino bluetooth controller
@@ -11,8 +12,17 @@
  We receive bluetooth signal from the mobile application as string and then we use this string in the software to control out car
  */
  
+ ## App Team:
+ * Team members: Md. Shofikul Islam and Talha Bin Abdul Hai
+ * App: ESP32_BLE_TLT.apk
+ * Hardware: Android Phone
+ * Software: MIT App Inventor
  
- Camera Crue:
+ /* User Interface Design:
+ 
+ 
+ 
+ ## Camera Crew:
  1.Md. Abbas Ali
  2.Md. Mahady Hassan
  
