@@ -13,7 +13,7 @@
  
  
  ## App Team
- * Team members: Md. Shofikul Islam and Talha Bin Abdul Hai (ID: 2017305050007)
+ * Team members: Md. Shofikul Islam(ID:2016105050002) and Talha Bin Abdul Hai (ID: 2017305050007)
  * App: ESP32_BLE_TLT.apk
  * Hardware: Android Phone
  * Software: MIT App Inventor
@@ -42,11 +42,12 @@
  
 Equipments:
 1.Tripad
-2.4k camera //with model
-3.Samsung //with model
+2.4k camera
+3.Samsung handy
 4.Gimbul
 5.light
 6.Power Bank
+7.Magic Hand
 etc
  
  Youtube video:
