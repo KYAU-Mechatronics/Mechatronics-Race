@@ -53,5 +53,17 @@ etc
  https://www.youtube.com/watch?v=6t3PXQXQ4Hs&list=PL6XCH6Oa28diybhDRk1bqSXjflcIb8uTp&index=16
  
  ## Infrastructure Team
+ 1.Asheak-E-Rabbi,ID:2019105070002
+ 2.Md.Nazimuddin Sheikh,ID:2019205060001
  
- 
+First we selected a place.
+Then I cleaned the place well.
+Then on paper we draw a street image .
+We used tape to make the road.
+We draw the road like that 8.
+We made the road 12” wide .
+After 2-3 hours of hard work we were able to make the nice road.
+
+Equipments:
+1. 4pis tapes
+
