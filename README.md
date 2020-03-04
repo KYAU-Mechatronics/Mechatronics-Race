@@ -13,7 +13,7 @@
  
  
  ## App Team
- * Team members: Md. Shofikul Islam and Talha Bin Abdul Hai
+ * Team members: Md. Shofikul Islam and Talha Bin Abdul Hai (ID: 2017305050007)
  * App: ESP32_BLE_TLT.apk
  * Hardware: Android Phone
  * Software: MIT App Inventor
