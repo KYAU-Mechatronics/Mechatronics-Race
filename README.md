@@ -12,20 +12,20 @@
  We receive bluetooth signal from the mobile application as string and then we use this string in the software to control out car
  
  
- ## App Team:
+ ## App Team
  * Team members: Md. Shofikul Islam and Talha Bin Abdul Hai
  * App: ESP32_BLE_TLT.apk
  * Hardware: Android Phone
  * Software: MIT App Inventor
  
- * User Interface Design:
+ **User Interface Design**
  <img src="images/DesignBLE.JPG" >
  * We used ConnectBLE button for scannning all blutooth devices and to connect to a blutooth device.
  * We used Disconnect button to disconect from the connected device.
  * We used Blutooth Low Energy, Clock and OrientationSensor.
  *
  
- * Block Design:
+ **Block Design**:
  <img src="images/Blocks.JPG" >
  * We took the value from positive 45 to negative 45 of Roll and Pitch of OrientationSensor. 
  * Then We send the value as string to the embedded software system by using BLE.
@@ -34,7 +34,7 @@
  
  
  
- ## Camera Crew:
+ ## Camera Crew
  1.Md. Abbas Ali
  2.Md. Mahady Hassan
  
