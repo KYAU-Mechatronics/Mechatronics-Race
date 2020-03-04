@@ -1,16 +1,16 @@
 # Mechatronics-Race
 
-## Embedded Software Team:
-/*
+## Embedded Software Team
+
  * Program: ESP32-Car-BT.ino
  * 20/02/20 Tareq Mahwdawi / Juergen Walter
- *Modified By: Ritu Ahmed and Md. Hasibur Rahman(Team of Embedded System) 
- *Advised by Quamrul Hasan
+ * Modified By: Ritu Ahmed and Md. Hasibur Rahman(Team of Embedded System) 
+ * Advised by Quamrul Hasan
  * Hardware: eMalRob ESP32 + H-Bridge 8833 + OLED + 2 DC Motors + 1 Servo
  * Software: Android - Arduino bluetooth controller
  
  We receive bluetooth signal from the mobile application as string and then we use this string in the software to control out car
- */
+ 
  
  ## App Team:
  * Team members: Md. Shofikul Islam and Talha Bin Abdul Hai
@@ -18,18 +18,18 @@
  * Hardware: Android Phone
  * Software: MIT App Inventor
  
- /* User Interface Design:
+ * User Interface Design:
  <img src="images/DesignBLE.JPG" >
  * We used ConnectBLE button for scannning all blutooth devices and to connect to a blutooth device.
  * We used Disconnect button to disconect from the connected device.
  * We used Blutooth Low Energy, Clock and OrientationSensor.
- */
+ *
  
- /* Block Design:
+ * Block Design:
  <img src="images/Blocks.JPG" >
  * We took the value from positive 45 to negative 45 of Roll and Pitch of OrientationSensor. 
  * Then We send the value as string to the embedded software system by using BLE.
- */
+ *
  
  
  
