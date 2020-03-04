@@ -4,7 +4,7 @@
 
  * Program: ESP32-Car-BT.ino
  * 20/02/20 Tareq Mahwdawi / Juergen Walter
- * Modified By: Ritu Ahmed(2019205060002) and Md. Hasibur Rahman(Team of Embedded System) 
+ * Modified By: Ritu Ahmed(2019205060002) and Md. Hasibur Rahman(ID:2018105050005)(Team of Embedded System) 
  * Advised by Quamrul Hasan
  * Hardware: eMalRob ESP32 + H-Bridge 8833 + OLED + 2 DC Motors + 1 Servo
  * Software: Android - Arduino bluetooth controller
