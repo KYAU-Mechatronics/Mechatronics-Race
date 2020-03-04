@@ -31,9 +31,6 @@
  * Then We send the value as string to the embedded software system by using BLE.
  *
  
- 
- 
- 
  ## Camera Crew
  1.Md. Abbas Ali
  2.Md. Mahady Hassan
@@ -54,3 +51,7 @@ etc
  
  Youtube video:
  https://www.youtube.com/watch?v=6t3PXQXQ4Hs&list=PL6XCH6Oa28diybhDRk1bqSXjflcIb8uTp&index=16
+ 
+ ## Infrastructure Team
+ 
+ 
