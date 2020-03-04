@@ -4,7 +4,7 @@
 
  * Program: ESP32-Car-BT.ino
  * 20/02/20 Tareq Mahwdawi / Juergen Walter
- * Modified By: Ritu Ahmed and Md. Hasibur Rahman(Team of Embedded System) 
+ * Modified By: Ritu Ahmed(2019205060002) and Md. Hasibur Rahman(Team of Embedded System) 
  * Advised by Quamrul Hasan
  * Hardware: eMalRob ESP32 + H-Bridge 8833 + OLED + 2 DC Motors + 1 Servo
  * Software: Android - Arduino bluetooth controller
@@ -32,8 +32,8 @@
  *
  
  ## Camera Crew
- 1.Md. Abbas Ali
- 2.Md. Mahady Hassan
+ 1.Md. Abbas Ali,ID:2019105070003
+ 2.Md. Mahady Hassan,ID:2019105070001
  
  We started video recording from the beginig of the car racing day. We took several video from different place at different time.
  The first shot I took from outside of the university. I took another videoclip from inside of Mechatronics lab. The race was held on another class room(Room No. 212). 
