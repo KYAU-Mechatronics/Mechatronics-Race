@@ -23,13 +23,13 @@
  * We used ConnectBLE button for scannning all blutooth devices and to connect to a blutooth device.
  * We used Disconnect button to disconect from the connected device.
  * We used Blutooth Low Energy, Clock and OrientationSensor.
- *
+ 
  
  **Block Design**:
  <img src="images/Blocks.JPG" >
  * We took the value from positive 45 to negative 45 of Roll and Pitch of OrientationSensor. 
  * Then We send the value as string to the embedded software system by using BLE.
- *
+ 
  
  ## Camera Crew
  1.Md. Abbas Ali,ID:2019105070003
